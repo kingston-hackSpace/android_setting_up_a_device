@@ -2,7 +2,7 @@
 
 STEP1:
 Install android studio on the computer you will be doing you authoring on. The latest version can be found here…
-https://developer.android.com/studio
+[https://developer.android.com/studio](https://developer.android.com/studio)
 
 STEP2:
 Once installed, download the SDK. The Software development kit comes in a variety of versions. Find the version that will run on the device you intend to use. Look on the phone to match the android version to the sdk version. You may have to install this on the phone
